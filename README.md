@@ -1,7 +1,7 @@
 - Hi, I’m @Gaikarayush
-- I’m interested in Web Development
-- I’m currently learning Python, JS, HTML, CSS
-- Contact me on Instagram:- @_who_is_ayushhh
+- I’m interested in Web Development, Software development, Java Developer, Backend Engineer.
+- I’m currently learning Java, HTML, CSS, JS.
+- Contact me on Instagram:- @_who_is_iyoushhh_
 
 <!---
 Gaikarayush/Gaikarayush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
